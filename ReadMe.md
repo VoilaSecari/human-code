@@ -22,12 +22,11 @@
 - Accendi il forno
 - SE la temperatura del forno raggiunge xx°
   - inforna la lasagna
-  - Metti il timer
-    - SE il timer è scaduto
-      - Controlla la lasagna
-      - SE la besciamella non è ben gratinata
-        - rimetti timer per 5 minuti
-      - ALTRIMENTI tira fuori la lasagna
-    - Lasciala raffreddare 5 minuti
-    - Prendi la forchetta dalla credenza
-    - Mangia
+  - metti il timer
+  - SE il timer è scaduto
+    - FINCHé la besciamella non è gratinata
+      - rimetti il timer per 5 minuti
+- tira fuori la lasagna
+- Lasciala raffreddare 5 minuti
+- Prendi la forchetta dalla credenza
+- Mangia
